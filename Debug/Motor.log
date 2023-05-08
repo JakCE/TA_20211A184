@@ -1,0 +1,10 @@
+﻿  MainGame.cpp
+C:\Users\LENOVO\Downloads\fundamentosupc202301-master\Motor\MainGame.cpp(26,61): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+C:\Users\LENOVO\Downloads\fundamentosupc202301-master\Motor\MainGame.cpp(26,45): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+C:\Users\LENOVO\Downloads\fundamentosupc202301-master\Motor\MainGame.cpp(86,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\LENOVO\Downloads\fundamentosupc202301-master\Motor\MainGame.cpp(106,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LENOVO\Downloads\fundamentosupc202301-master\Motor\MainGame.cpp(106,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Sprite.cpp
+  main.cpp
+  Generando código...
+  Motor.vcxproj -> C:\Users\LENOVO\Downloads\fundamentosupc202301-master\Debug\Motor.exe
